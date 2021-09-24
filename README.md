@@ -19,5 +19,5 @@ Contact:
 <a href="https://pt.stackoverflow.com/users/253238/brenocipolli" target="_blank"><img height='25cm' alt="stackoverflow" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <div>
 <div>
-     <img align="right" alt="animecoding" src="https://cdn.discordapp.com/avatars/852901991722123274/a_56cfbc71b411f5940e17546bb38471f8.gif">
+     <img align="left" alt="animecoding" src="https://cdn.discordapp.com/avatars/852901991722123274/a_56cfbc71b411f5940e17546bb38471f8.gif">
 <div>
