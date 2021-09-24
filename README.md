@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <div>
 
 <div>
- <a href="https://www.youtube.com/nostalgia"  target="_blank"><img scr="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"target="_blank"><a/>
+ <a href="https://www.youtube.com/nostalgia"  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"target="_blank"><a/>
 <div>
