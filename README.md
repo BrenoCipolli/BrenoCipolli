@@ -18,3 +18,8 @@
   <img height="50cm" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
    <img align="right" alt="animecoding" src="https://cdn.discordapp.com/avatars/852901991722123274/a_56cfbc71b411f5940e17546bb38471f8.gif">
 </div>
+<div>
+<h1> Contact: <h1>
+  <a href="https://discordapp.com/users/848646514003673139" target="_blank"><img height='50cm' alt="python" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    
+<div>
