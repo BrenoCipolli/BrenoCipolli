@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div>
  <a href="https://www.youtube.com/nostalgia"  target="_blank"><img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"target="_blank"><a/>
 <div>
-
+#My skills
 </div>
    <img align="right" alt="animecoding" src="https://cdn.discordapp.com/avatars/852901991722123274/a_56cfbc71b411f5940e17546bb38471f8.gif">
 </div>
