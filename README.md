@@ -11,6 +11,9 @@
 <div>
  <a href="https://www.youtube.com/nostalgia"  target="_blank"><img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"target="_blank"><a/>
 <div>
-<h1> My skills: <h2>oooo<h2> <h1>
+<h1> My skills:
+  <img alt="python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
+<h1>
    <img align="right" alt="animecoding" src="https://cdn.discordapp.com/avatars/852901991722123274/a_56cfbc71b411f5940e17546bb38471f8.gif">
 </div>
