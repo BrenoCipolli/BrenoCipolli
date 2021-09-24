@@ -1,4 +1,4 @@
-### Hi! welcome to my github proile😁
+### Hi! welcome to my github profile😁
 
 <!--
 **BrenoCipolli/BrenoCipolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
