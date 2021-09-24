@@ -22,5 +22,7 @@
 <h1> Contact: <h1>
   <a href="https://discordapp.com/users/848646514003673139" target="_blank"><img height='25cm' alt="discord" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://pt.stackoverflow.com/users/253238/brenocipolli" target="_blank"><img height='25cm' alt="stackoverflow" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><img height='25cm' alt="gmail" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+
 
 <div>
