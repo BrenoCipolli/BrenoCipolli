@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <div>
 
 <div>
- <a href="https://www.youtube.com/nostalgia"  target="_blank"><img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png"target="_blank"><a/>
+ <a href="https://www.youtube.com/nostalgia"  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"target="_blank"><a/>
 <div>
