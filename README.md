@@ -18,3 +18,7 @@ Here are some ideas to get you started:
   <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=BrenoCipolli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true'/>
   <img height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoCipolli&layout=compact&langs_count=16&theme=dracula'/>
 <div>
+
+<div>
+ < href="https://www.youtube.com/nostalgia" target='_blank'><img scr="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"target="_blank"><a/>
+<div>
