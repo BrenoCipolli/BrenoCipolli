@@ -7,10 +7,6 @@
   <img height='120cm' src='https://github-readme-stats.vercel.app/api?username=BrenoCipolli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true'/>
   <img height='120cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoCipolli&layout=compact&langs_count=16&theme=dracula'/>
 <div>
-
-<div>
- <a href="https://www.youtube.com/nostalgia"  target="_blank"><img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"target="_blank"><a/>
-<div>
 <h1> My skills:<h1>
   <img height='50cm' alt="python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="50cm" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
